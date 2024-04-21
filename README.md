@@ -1,18 +1,12 @@
- Free Code Camp Role Playing Game Project
+ Free Code Camp Music Player Project
 
 
-In this Free Code Camp Project I learnt fundamental programming concepts in JavaScript by coding my own Role Playing Game. 
+In this project I learnt essential string and array methods, such as; find(), forEach(), map(), and join(). 
 
-Whilst doing this project I learnt how to work with arrays, strings, objects, functions, loops, if/else statements, and more.
-
-The game is complete however, I would like to change some functions and features
-in the future.
+In this project, I coded a basic MP3 player using HTML, CSS, and JavaScript. This project covered fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities.
 
 Some features I would like to change;
 
-- Change the buttons to not repeat the same text.
-- Add a dragon graphic to the window.
-- Change styles.
-- Add armour and other accesories to player inventory.
-- Add the option of easy, normal, hard modes.
-- Add more easter eggs.
+- Add a loop track feature.
+- Add multiple playlists or different albums.
+- Add a fast foward to allow user to skip parts of the track.
